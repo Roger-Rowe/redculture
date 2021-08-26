@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://rogerrowe.cn/redculture/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://rogerrowe.cn/redculture/"/>
   <updated>2021-08-26T05:48:52.384Z</updated>
-  <id>http://example.com/</id>
+  <id>https://rogerrowe.cn/redculture/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/hello.html"/>
-    <id>http://example.com/hello.html</id>
+    <link href="https://rogerrowe.cn/redculture/hello.html"/>
+    <id>https://rogerrowe.cn/redculture/hello.html</id>
     <published>2021-08-25T15:08:15.683Z</published>
     <updated>2021-08-26T05:48:52.384Z</updated>
     
